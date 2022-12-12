@@ -1,0 +1,25 @@
+.select-cont{
+    width:67%
+}
+
+@media (min-width: 576px) { }
+@media (min-width: 768px) {
+    .select-cont{
+        width:61%
+    }
+}
+@media (min-width: 992px) { 
+    .select-cont{
+        width:63%
+    }
+}
+@media (min-width: 1200px) { 
+    .select-cont{
+        width:63%
+    }
+}
+@media (min-width: 1400px) { 
+    .select-cont{
+        width:61%
+    }
+}
