@@ -1,16 +1,20 @@
 import React from 'react'
 import BgTab from '../Tabes/BgTab'
 import DataMap from './DataMap'
+import Remarks from './Remarks';
 
 const Data2 = () => {
   return (
-    <div>
+    <div className='container'>
       <div className="row m-auto">
         <div  >
           <DataMap />
         </div>
-        <div className='mt-5'>
+        <div>
         <BgTab/>
+        </div>
+        <div>
+        <Remarks/>
         </div>
       </div>
     </div>

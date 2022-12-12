@@ -1,8 +1,6 @@
 .select-cont{
     width:67%
 }
-
-@media (min-width: 576px) { }
 @media (min-width: 768px) {
     .select-cont{
         width:61%
